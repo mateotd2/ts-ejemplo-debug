@@ -1,0 +1,14 @@
+
+// https://code.visualstudio.com/docs/typescript/typescript-debugging
+
+// https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
+
+//
+{
+    "compilerOptions": {
+      "target": "ES5",
+      "module": "CommonJS",
+      "outDir": "out",
+      "sourceMap": true
+    }
+}
